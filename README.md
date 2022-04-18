@@ -1,4 +1,4 @@
-# Tiore
+# Tioreo
 A simple browser cleanup extension (Chromium)
 
 ## License
