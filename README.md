@@ -1,4 +1,4 @@
-<img src="https://imgur.com/D0rkmQP.png" width="100"/>
+<img src="https://imgur.com/D0rkmQP.png" width="130"/>
 
 # Tioreo
 A simple browser cleanup extension (Chromium)
