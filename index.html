@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style> 
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+        body {
+            background-color: #131313;
+        }
+
+        a {
+            text-decoration: none;
+            color: #824ed4;
+        }
+
+        .pButton {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 11px;
+            width: 170px;
+            height: 30px;
+            appearance: none;
+            cursor: pointer;
+            border: 0;
+            align-items: center;
+            letter-spacing: 1.75px;
+            color: #ffffff;
+            background: #242424;
+            border-radius: 5px;
+            transition: .3s;
+            border-color: rgba(139, 113, 255, 0);
+        }
+
+        .pButton:hover {
+            border: 1px solid;
+            background: #5D3799;
+            border-color: rgba(115, 96, 202, 0.356);
+        }
+
+        .pButton:active {
+            background: #472b75;
+        }
+
+        .pButton:focus {
+            box-shadow: 0px 0px 0px 3px rgba(93, 56, 163, 0.486);
+        }
+
+        #CleanDownloads {
+            margin-top: 10px;
+        }
+
+        .info_text {
+            color: rgb(124, 124, 124);
+        }
+
+        .info {
+            margin-top: 0px;
+            font-size: 10px;
+        }
+
+        hr.solid {
+            border: 0.5px solid rgb(37, 37, 37);
+            margin-top: 10px;
+        }
+
+        .sourceT {
+            color: rgb(124, 124, 124);
+        }
+    </style>
+</head>
+<body>
+    <script src="cleaner.js"></script>
+    <div class="menu">
+        <!-- <div class="logo">
+            <img src="tioreo_logo.png" class="logoImg" alt="" draggable="false">
+        </div> -->
+        <div class="buttons">
+            <button class="pButton" id="CleanHistory">Clean History</button>
+            <button class="pButton" id="CleanDownloads">Clean Downloads</button>
+        </div>
+        <hr class="solid">
+        <div class="info">
+            <p class="sourceT">Version: 1.0.0 <a href="https://github.com/exl1pse/tioreo">Source</a></p>
+            <p class="info_text">
+                © 2022 
+                <a href="https://github.com/exl1pse" target="_blank">exl1pse.</a>
+                All Rights Reserved.
+            </p>
+        </div>
+    </div>
+</body>
+</html>
