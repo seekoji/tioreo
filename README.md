@@ -1,3 +1,5 @@
+<img src="https://imgur.com/D0rkmQP.png"/>
+
 # Tioreo
 A simple browser cleanup extension (Chromium)
 
