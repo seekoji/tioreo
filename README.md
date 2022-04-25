@@ -10,7 +10,7 @@
 <h4 align="center">A simple browser cleanup extension.</h4>
 
 ## Installing for chromium-based browsers 
-* git clone https://github.com/exl1pse/tioreo.git or download source zip
+* `git clone https://github.com/exl1pse/tioreo.git` or download source zip
 * Enter in the address bar **chrome://extensions**
 * Enable developer mode
 * Download the unzipped extension from the repository contents folder
