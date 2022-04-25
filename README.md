@@ -1,5 +1,3 @@
-<img src="https://imgur.com/D0rkmQP.png" width="130"/>
-
 <h1 align="center">
   <br>
   <a href="#"><img src="https://imgur.com/D0rkmQP.png" alt="Tioreo" width="200"></a>
