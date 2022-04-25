@@ -3,7 +3,7 @@
   <a href="#"><img src="https://imgur.com/D0rkmQP.png" alt="Tioreo" width="200"></a>
   <br>
   Tioreo
-  <h4 align="center">A simple browser cleanup extension.</h4>
+  A simple browser cleanup extension.
   <br>
   <br>
 </h1>
