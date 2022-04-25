@@ -1,7 +1,15 @@
 <img src="https://imgur.com/D0rkmQP.png" width="130"/>
 
-# Tioreo
-A simple browser cleanup extension (Chromium)
+<h1 align="center">
+  <br>
+  <a href="#"><img src="https://imgur.com/D0rkmQP.png" alt="Tioreo" width="200"></a>
+  <br>
+  Tioreo
+  <br>
+  <br>
+</h1>
+
+<h4 align="center">A simple browser cleanup extension.</h4>
 
 ## License
 MIT © Tioreo<br/>
