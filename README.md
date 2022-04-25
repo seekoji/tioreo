@@ -3,9 +3,9 @@
   <a href="#"><img src="https://imgur.com/D0rkmQP.png" alt="Tioreo" width="200"></a>
   <br>
   Tioreo
-  <br>
-  <br>
   <h4 align="center">A simple browser cleanup extension.</h4>
+  <br>
+  <br>
 </h1>
 
 ## Installing for chromium-based browsers 
