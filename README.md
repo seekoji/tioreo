@@ -4,7 +4,6 @@
   <br>
   Tioreo
   <br>
-  <br>
 </h1>
 
 <h4 align="center">A simple browser cleanup extension.</h4>
