@@ -10,6 +10,7 @@
 * `git clone https://github.com/exl1pse/tioreo.git` or download source zip
 * Enter in the address bar: **chrome://extensions**
 * Enable developer mode
+* Test
 * Download the unzipped extension from the repository contents folder
 
 ## License
