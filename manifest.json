@@ -1,0 +1,20 @@
+{
+	"manifest_version": 3,
+	"name": "Tioreo",
+	"description": "Simple tools for your browser",
+	"version": "2.0.0",
+	"author": "exl1pse",
+	"action": {
+		"default_title": "Tioreo",
+		"default_icon": "assets/icon.png",
+		"default_popup": "index.html"
+	},
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": ["assets/js/cleaner.js"]
+		}
+	],
+	"permissions": ["history", "downloads", "browsingData"],
+	"host_permissions": ["<all_urls>"]
+}

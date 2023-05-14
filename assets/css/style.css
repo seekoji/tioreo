@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Poppins", sans-serif;
+}
+
+body {
+	background-color: #e3ddeb;
+	margin: 20px 20px 15px 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.menu {
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+}
+
+.header_text {
+	color: rgb(27, 27, 27);
+	font-size: 28px;
+	font-weight: 600;
+	margin-bottom: 15px;
+	margin-top: 10px;
+}
+
+.header_text::selection {
+	background-color: #d3ceda;
+}
+
+.PButton {
+	display: flex;
+	align-items: center;
+	color: rgb(27, 27, 27);
+	background-color: #e3ddeb;
+	border-style: none;
+	border: 1px solid #ece6f5;
+	border-radius: 6px;
+	width: 200px;
+	height: 40px;
+	margin-bottom: 10px;
+	cursor: pointer;
+	transition: 0.2s;
+	box-shadow: 0px 8px 21px rgba(0, 0, 0, 0.06);
+}
+
+.PButton:hover {
+	background-color: #eae5f1;
+}
+
+.PButton:active {
+	background-color: #e3ddeb;
+}
+
+.PButton::selection {
+	background-color: #d3ceda;
+}
+.PIcon {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 19px;
+}
+
+hr {
+	border: 1px solid #d3ceda;
+	margin-bottom: 10px;
+}
+
+.description {
+	margin-top: 5px;
+}
+
+.description_text {
+	color: #464154;
+}
+
+.dt::selection {
+	background-color: #d3ceda;
+}
+
+.source {
+	margin-bottom: 4px;
+	color: #8a56de;
+}
+
+.DIcon {
+	display: flex;
+	align-items: center;
+}
