@@ -8,8 +8,8 @@
 }
 
 body {
-	background-color: #e3ddeb;
-	margin: 20px 20px 15px 20px;
+	background-color: #131119;
+	margin: 20px 18px 15px 18px;
 }
 
 a {
@@ -23,7 +23,7 @@ a {
 }
 
 .header_text {
-	color: rgb(27, 27, 27);
+	color: rgb(255, 255, 255);
 	font-size: 28px;
 	font-weight: 600;
 	margin-bottom: 15px;
@@ -31,45 +31,40 @@ a {
 }
 
 .header_text::selection {
-	background-color: #d3ceda;
+	background-color: #571826;
 }
 
 .PButton {
 	display: flex;
 	align-items: center;
-	color: rgb(27, 27, 27);
-	background-color: #e3ddeb;
+	color: rgb(255, 255, 255);
+	background-color: #9c1a37;
 	border-style: none;
-	border: 1px solid #ece6f5;
+	border: 1px solid #cf294e;
 	border-radius: 6px;
-	width: 200px;
+	width: 180px;
 	height: 40px;
 	margin-bottom: 10px;
 	cursor: pointer;
 	transition: 0.2s;
-	box-shadow: 0px 8px 21px rgba(0, 0, 0, 0.06);
+	box-shadow: 0px 0px 13px rgba(156, 26, 55, 0.15);
 }
 
 .PButton:hover {
-	background-color: #eae5f1;
+	background-color: #af2442;
 }
 
 .PButton:active {
-	background-color: #e3ddeb;
+	background-color: #88172f;
 }
 
 .PButton::selection {
-	background-color: #d3ceda;
+	background-color: #571826;
 }
 .PIcon {
 	margin-right: 15px;
 	margin-left: 15px;
 	font-size: 19px;
-}
-
-hr {
-	border: 1px solid #d3ceda;
-	margin-bottom: 10px;
 }
 
 .description {
@@ -81,12 +76,12 @@ hr {
 }
 
 .dt::selection {
-	background-color: #d3ceda;
+	background-color: #571826;
 }
 
 .source {
 	margin-bottom: 4px;
-	color: #8a56de;
+	color: #9c1a37;
 }
 
 .DIcon {
