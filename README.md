@@ -14,9 +14,9 @@
 -   Download the unzipped extension from the repository contents folder
 
 ## Todo
-- [] Settings page
-  - [] Theme changing
-  - [] Custom tools
+- [ ] Settings page
+  - [ ] Theme changing
+  - [ ] Custom tools
 
 ## License
 MIT © Tioreo<br/>
