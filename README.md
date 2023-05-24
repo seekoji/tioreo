@@ -7,7 +7,6 @@
 </h1>
 
 ## Installing for chromium-based browsers
-
 -   `git clone https://github.com/exl1pse/tioreo.git` or download source zip
 -   Enter in the address bar: **chrome://extensions**
 -   Enable developer mode
