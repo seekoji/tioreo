@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "Tioreo",
 	"description": "Simple tools for your browser",
-	"version": "2.0.1 (beta)",
+	"version": "2.0.1",
 	"author": "exl1pse",
 	"action": {
 		"default_title": "Tioreo",
