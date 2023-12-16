@@ -19,4 +19,4 @@
 
 ## License
 MIT © Tioreo<br/>
-Original Creator - [exl1pse](https://github.com/exl1pse)
+Original Creator - [seekoji](https://github.com/seekoji)
