@@ -9,25 +9,22 @@
 
 body {
 	background-color: #131119;
-	margin: 20px 18px 15px 18px;
+	padding: 20px 15px 15px 15px;
 }
 
 a {
 	text-decoration: none;
 }
 
-.menu {
-	display: flex;
-	flex-flow: column;
-	align-items: center;
-}
-
 .header_text {
+	display: grid;
+	position: relative;
+	text-align: center;
 	color: rgb(255, 255, 255);
 	font-size: 28px;
 	font-weight: 600;
-	margin-bottom: 15px;
-	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
 }
 
 .header_text::selection {
